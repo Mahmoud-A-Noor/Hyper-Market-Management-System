@@ -19,7 +19,7 @@
 
 every module has it's own default username and password
 
-![login.PNG](https://github.com/Mahmoud-A-Noor/Hyper-Market-Management-System/blob/main/dependencies/previews/login.png?raw=true)
+![login](https://user-images.githubusercontent.com/59361888/210212787-b5d5bf87-96b9-452a-9991-82e47604b4d3.png)
 
 ### Administration Module
 
@@ -29,7 +29,7 @@ every module has it's own default username and password
 - Admin has username and password and can alter them.
 - Admin manages employees (Add - set unique id, password and type to new employee, Delete, update, List and search all Employees, ).
 
-![admin.PNG](dependencies/previews/admin.png)
+![admin](https://user-images.githubusercontent.com/59361888/210212808-a99e7b3e-6b8e-498a-bcca-2b53a2fdf223.png)
 
 ### Marketing Module
 
@@ -39,7 +39,7 @@ every module has it's own default username and password
 - Marketing employees can make reports about products (make queries).
 - Marketing employees make special offers and send them to inventory management.
 
-![marketing.PNG](dependencies/previews/marketing.png)
+![marketing](https://user-images.githubusercontent.com/59361888/210212823-7509f680-d807-4322-97c3-b15ba9b8027b.png)
 
 ### Inventory Module
 
@@ -50,7 +50,7 @@ every module has it's own default username and password
 - System Must send notification when amount of product reduces at special range -set by inventory employees- OR when expiry date of product gets close.
 - Manage the Damages items and sales Return.
 
-![inventory.PNG](dependencies/previews/inventory.png)
+![inventory](https://user-images.githubusercontent.com/59361888/210212843-192e5332-99c8-4541-b6d4-e6616f2a37fc.png)
 
 ### Sales Module
 
@@ -59,6 +59,6 @@ every module has it's own default username and password
 
 - Seller can (search for product, list all products, make and cancel order or cancel part of the order).
 
-![seller.PNG](dependencies/previews/seller.png)
+![seles](https://user-images.githubusercontent.com/59361888/210212875-83859c51-224c-406a-aeee-6f74c30cf204.png)
+![sales](https://user-images.githubusercontent.com/59361888/210212884-f773ef0f-cae3-45d1-ad4d-3c26a176f0c4.png)
 
-![seller-previous.PNG](dependencies/previews/seller-previous.png)
