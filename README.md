@@ -19,7 +19,7 @@
 
 every module has it's own default username and password
 
-![login.PNG](dependencies/previews/login.png)
+![login.PNG](https://github.com/Mahmoud-A-Noor/Hyper-Market-Management-System/blob/main/dependencies/previews/login.png?raw=true)
 
 ### Administration Module
 
